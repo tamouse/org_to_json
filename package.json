@@ -1,0 +1,10 @@
+{
+  "name": "org_to_json",
+  "version": "0.1.0",
+  "description": "Convert org mode files to JSON",
+  "main": "index.js",
+  "repository": "git@github.com:tamouse/org_to_json.git",
+  "author": "Tamara Temple <tamouse@gmail.com> (https://github.com/tamouse)",
+  "license": "ISC",
+  "private": true
+}
