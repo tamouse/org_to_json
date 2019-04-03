@@ -1,0 +1,35 @@
+* 2019
+** 2019-04 April
+*** 2019-04-02 Tuesday
+
+**** For S19 April Association Fees                            :condo:estate:
+     :PROPERTIES:
+     :CAPTURE_DATE: [2019-04-02 Tue 21:02]
+     :CheckNo:  281
+     :Amount:   915
+     :Payee:    Somerset 19 Condominium Association
+     :Account:  00220516
+     :Date:     2019-04-02
+     :END:
+
+     [[file:chk-282-s19-condo-assn-915.00-april-fees-2019-04-02.jpg][file:~/org/Finances/chk-282-s19-condo-assn-915.00-april-fees-2019-04-02.jpg]]
+
+**** For 1/3 of Odyssey                                              :estate:
+     :PROPERTIES:
+     :CheckNo:  283
+     :Payee:    Ruth Temple
+     :Amount:   5000
+     :Date:     2019-04-02
+     :END:
+
+     [[file:chk-283-ruth-temple-5000.00-for-odyssey-2019-04-02.jpg][file:~/org/Finances/chk-283-ruth-temple-5000.00-for-odyssey-2019-04-02.jpg]]
+
+**** For 1/3 of Odyssey                                              :estate:
+     :PROPERTIES:
+     :CheckNo:  284
+     :Payee:    Mike Temple
+     :Amount:   5000
+     :Date:     2019-04-02
+     :END:
+
+     [[file:chk-284-mike-temple-5000-for-odyssey-2019-04-02.jpg][file:~/org/Finances/chk-284-mike-temple-5000-for-odyssey-2019-04-02.jpg]]
